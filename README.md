@@ -1,4 +1,4 @@
-# my-github
+# Tests
 for learning purposes
 
 
