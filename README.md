@@ -1,5 +1,5 @@
 # my-github
-for learning purpose
+for learning purposes
 
 
 # testujeme
